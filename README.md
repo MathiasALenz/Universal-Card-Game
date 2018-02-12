@@ -4,7 +4,7 @@ An attempt to create the universal card game, that will be able to implement dif
 plan:
 Use UP.
 
-Inception phase
+**Inception phase**
 Vision document with general cision of the core project's requirements, jey features, and main constraints.
 Initial use - case model
 Initial project glossary
@@ -14,3 +14,12 @@ initial project plan and risk assessment: main risks and countermeasures
 
 Udarbejdelse af visionsdokument d. 13:
 **insert useful info here**
+
+Indledende kravspecifikation
+Afgrænsning af projekt
+Visionsdokument
+Identifikation og udvikling af kritiske use cases
+Prototyper af de største tekniske risikoer
+Arkitektoniske prototyper
+Estimering af samlede omkostninger
+Estimering af risikoer
