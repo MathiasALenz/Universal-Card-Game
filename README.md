@@ -15,11 +15,10 @@ initial project plan and risk assessment: main risks and countermeasures
 Udarbejdelse af visionsdokument d. 13:
 **insert useful info here**
 
-Indledende kravspecifikation
-Afgrænsning af projekt
-Visionsdokument
-Identifikation og udvikling af kritiske use cases
-Prototyper af de største tekniske risikoer
-Arkitektoniske prototyper
-Estimering af samlede omkostninger
-Estimering af risikoer
+Indledende kravspecifikation, Afgrænsning af projekt, Visionsdokument, Identifikation og udvikling af kritiske use cases, Prototyper af de største tekniske risikoer, Arkitektoniske prototyper, Estimering af samlede omkostninger, Estimering af risikoer
+
+
+Risikoanalyse: Da dette er et hyggeprojekt vil projektets største risikofaktorer være:
+1. At miste interessen for projektet og starte et nyt.
+2. Støder på svært definerbare metoder.
+
