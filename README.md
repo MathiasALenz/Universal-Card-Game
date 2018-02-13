@@ -12,13 +12,13 @@ initial business cace: buisness contesxt and succes criterias <br />
 initial project plan and risk assessment: main risks and countermeasures <br />
 [optionally] make one or more prototypes: address specifik risks, show specific aspects of the system.
 
-Udarbejdelse af visionsdokument d. 13: <br />
-**insert useful info here**
 
 Indledende kravspecifikation, Afgrænsning af projekt, Visionsdokument, Identifikation og udvikling af kritiske use cases, Prototyper af de største tekniske risikoer, Arkitektoniske prototyper, Estimering af samlede omkostninger, Estimering af risikoer
 
 **Inception fasen** <br />
-*Visionsdokument*: UCG samler samtlige identiske funktioner fra kortspil: trække kort, blande kortbunke, <br />
+*Visionsdokument*: udarbejdes den 13 
+Udarbejdelse af visionsdokument d. 13: <br />
+**insert useful info here**<br />
 
 *Risikoanalyse*: Da dette er et hyggeprojekt vil projektets største risikofaktorer være:
 1. At miste interessen for projektet og starte et nyt.
