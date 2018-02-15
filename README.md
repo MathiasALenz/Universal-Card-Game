@@ -23,3 +23,5 @@ Udarbejdelse af visionsdokument d. 13: <br />
 *Risikoanalyse*: Da dette er et hyggeprojekt vil projektets største risikofaktorer være:
 1. At miste interessen for projektet og starte et nyt.
 2. Støder på svært definerbare metoder.
+
+*use-case model*: player -- plays game (something)
